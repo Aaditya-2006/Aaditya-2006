@@ -35,5 +35,4 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-2006&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Aaditya's Top Languages"/>
 </div>
