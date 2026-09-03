@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi, I'm Aaditya Raj</h1>
-  <h3>Electrical Engineering Undergrad @ NIT Delhi</h3>
   <p>Building ML Systems, Custom PyTorch Inference Engines, and Edge AI Infrastructure</p>
   
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
