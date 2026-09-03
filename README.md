@@ -2,7 +2,7 @@
   <h1>Hi, I'm Aaditya Raj</h1>
   <p>Building ML Systems, Custom PyTorch Inference Engines, and Edge AI Infrastructure</p>
   
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/aaditya-raj-2a2190314/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:aadiraj142006@gmail.com">
