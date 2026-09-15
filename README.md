@@ -29,8 +29,8 @@
 
 ### Featured Work
 * **[Constrained Decoding Engine](https://github.com/Aaditya-2006/Constrained-Decoding-Engine):** An LLM inference engine built from scratch in PyTorch that intercepts raw neural network logits during autoregressive decoding to guarantee syntactically valid JSON/Python generation.
-* **[occlubio - Edge Biometrics](https://github.com/Aaditya-2006/occlubio_facial_recognition):** Sub-millisecond facial recognition system utilizing GhostFaceNets, YOLO, and FAISS vector matching. Engineered a containerized video streaming pipeline for budget edge hardware.
-* **[Audio Instrument Classifier](https://github.com/Aaditya-2006/UnsupervisedModel-Robustness-Analysis):** A comparative analysis of Self-Supervised (SimCLR) vs. Supervised Learning robustness on noisy images.
+* **[occlubio - Edge Biometrics](https://github.com/Aaditya-2006/occlubio-facial_recognition):** Sub-millisecond facial recognition system utilizing GhostFaceNets, YOLO, and FAISS vector matching. Engineered a containerized video streaming pipeline for budget edge hardware.
+* **[Self-Supervised Learning](https://github.com/Aaditya-2006/UnsupervisedModel-Robustness-Analysis):** A comparative analysis of Self-Supervised (SimCLR) vs. Supervised Learning robustness on noisy images.
 
 <br>
 
